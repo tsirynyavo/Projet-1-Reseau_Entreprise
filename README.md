@@ -32,3 +32,11 @@ Ce projet simule l'infrastructure réseau d'une petite entreprise. Il a été r�
 2. Ouvrez-le dans Cisco Packet Tracer.
 3. Attendez que les voyants des câbles deviennent verts.
 4. Ouvrez l'invite de commande d'un PC et testez les pings !
+
+## 🎭 Scénario de démonstration : Arrivée d'un nouvel employé
+
+Pour tester le réseau dans des conditions réelles, j'ai simulé l'arrivée d'un nouvel employé. 
+Le poste client (PC-Nouvel-Employe) a été branché sur le réseau. Le serveur DHCP lui a attribué une adresse IP automatiquement, et il a pu accéder au site intranet de l'entreprise via son nom de domaine.
+
+![Démo Nouvel Employé](./08-demo-nouvel-employe.PNG)
+
